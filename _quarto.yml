@@ -8,11 +8,12 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - logbook.qmd
     - summary.qmd
 
 format:
   html:
     theme: cosmo
-  epub:
-    cover-image: cover.png
+  
+   
 
