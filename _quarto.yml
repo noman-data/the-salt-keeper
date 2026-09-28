@@ -1,0 +1,18 @@
+project:
+  type: book
+
+book:
+  title: "The Salt Keeper"
+  author: "Noman"
+  date: "2026-09-28"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+
+format:
+  html:
+    theme: cosmo
+  epub:
+    cover-image: cover.png
+

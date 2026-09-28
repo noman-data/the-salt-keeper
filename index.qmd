@@ -1,0 +1,6 @@
+# Preface {.unnumbered}
+
+> *"The sea does not drown a man because it hates him. It drowns him because it is cold, and heavy, and has nowhere else to put its weight."*  
+> — Traditional Keeper’s Admonition
+
+This short volume was prepared as an exercise in structural typography and digital book publishing using Quarto. All events and persons depicted herein are purely fictitious.
